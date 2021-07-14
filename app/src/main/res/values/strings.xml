@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dictionary</string>
+    <string name="helloButton">挨拶</string>
+    <string name="resultText">TextView</string>
+    <string name="addButton">追加</string>
+    <string name="getButton">取得</string>
+</resources>
